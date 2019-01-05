@@ -32,7 +32,7 @@ include('header.php');
                                 <div class="clearfix"></div>
                             </div>
                             <div class="x_content">
-                                Add content to the page ...
+                                LMS
                             </div>
                         </div>
                     </div>
